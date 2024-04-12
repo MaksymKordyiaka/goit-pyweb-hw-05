@@ -43,9 +43,9 @@ if __name__ == "__main__":
 
     currency_data = []
     for item in result:
-        for exchRate in item['exchangeRate']:
+        for exchRate in item['exchangeRate'] :
             if exchRate['currency'] == 'EUR' or exchRate['currency'] == 'USD':
-                currency_data.append(exchRate)
+                currency_data.append({'date': item['date'], **exchRate})
     formatted_result = json.dumps(currency_data, indent=2)
     print(formatted_result)
 
