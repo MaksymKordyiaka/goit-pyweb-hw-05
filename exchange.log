@@ -1,0 +1,69 @@
+2024-04-14 13:49:39 - ('::1', 58287, 0, 0) - exchange 1 EUR,USD - [
+  {
+    "date": "14.04.2024",
+    "baseCurrency": "UAH",
+    "currency": "EUR",
+    "saleRateNB": 42.019,
+    "purchaseRateNB": 42.019,
+    "saleRate": 42.85,
+    "purchaseRate": 41.85
+  },
+  {
+    "date": "14.04.2024",
+    "baseCurrency": "UAH",
+    "currency": "USD",
+    "saleRateNB": 39.1676,
+    "purchaseRateNB": 39.1676,
+    "saleRate": 39.6,
+    "purchaseRate": 39.0
+  }
+]
+2024-04-14 13:49:49 - ('::1', 58287, 0, 0) - exchange 2 PLN - [
+  {
+    "date": "14.04.2024",
+    "baseCurrency": "UAH",
+    "currency": "PLN",
+    "saleRateNB": 9.8674,
+    "purchaseRateNB": 9.8674,
+    "saleRate": 9.9,
+    "purchaseRate": 9.71
+  },
+  {
+    "date": "13.04.2024",
+    "baseCurrency": "UAH",
+    "currency": "PLN",
+    "saleRateNB": 9.8674,
+    "purchaseRateNB": 9.8674,
+    "saleRate": 9.9,
+    "purchaseRate": 9.71
+  }
+]
+2024-04-14 13:51:56 - ('::1', 58287, 0, 0) - exchange 3 GBP - [
+  {
+    "date": "14.04.2024",
+    "baseCurrency": "UAH",
+    "currency": "GBP",
+    "saleRateNB": 49.1123,
+    "purchaseRateNB": 49.1123,
+    "saleRate": 49.33,
+    "purchaseRate": 48.58
+  },
+  {
+    "date": "13.04.2024",
+    "baseCurrency": "UAH",
+    "currency": "GBP",
+    "saleRateNB": 49.1123,
+    "purchaseRateNB": 49.1123,
+    "saleRate": 49.33,
+    "purchaseRate": 48.58
+  },
+  {
+    "date": "12.04.2024",
+    "baseCurrency": "UAH",
+    "currency": "GBP",
+    "saleRateNB": 49.1123,
+    "purchaseRateNB": 49.1123,
+    "saleRate": 49.47,
+    "purchaseRate": 48.72
+  }
+]
